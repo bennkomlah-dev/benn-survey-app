@@ -1,0 +1,25 @@
+{
+    "chart_title": "Average Daily Screen Time by App Category",
+    "data_points": [
+        {
+            "label": "Social Media",
+            "value": 2.5
+        },
+        {
+            "label": "Steaming",
+            "value": 1.8
+        },
+        {
+            "label": "Gaming",
+            "value": 1.2
+	},
+        {
+	    "label": "Productivity",
+	    "value": 1.5
+	},
+	{
+	    "label": "News & Reading",
+	    "value": 0.8
+	}
+    ]
+}
